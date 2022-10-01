@@ -1,5 +1,5 @@
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:stepfront_api/models.dart/profile_model.dart';
+import 'package:stepfront_api/models/profile_model.dart';
 import 'package:stepfront_api/services/user_service.dart';
 
 import '../core/print.dart';

@@ -1,4 +1,4 @@
-import 'package:stepfront_api/models.dart/profile_model.dart';
+import 'package:stepfront_api/models/profile_model.dart';
 
 import '../core/dio_service.dart';
 import 'package:dio/dio.dart';

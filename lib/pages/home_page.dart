@@ -5,7 +5,7 @@ import 'package:flutter/material.dart';
 import 'package:hooks_riverpod/hooks_riverpod.dart';
 import 'package:flutter_hooks/flutter_hooks.dart';
 import 'package:lottie/lottie.dart';
-import 'package:stepfront_api/models.dart/profile_model.dart';
+import 'package:stepfront_api/models/profile_model.dart';
 import 'package:stepfront_api/services/user_service.dart';
 import 'package:stepfront_api/widgets/custom_text_field.dart';
 
